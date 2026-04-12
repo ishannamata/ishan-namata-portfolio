@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Ishan Namata",
+    "title2": "Aspiring Software Engineer | Java • SQL •Python • Web Development | MCA @ KIIT 2026 | Open to Entry-Level Opportunities",
+    "summary": "Aspiring IT enthusiast with strong academic background and practical skills in Java, Python, and web development. Focused on continuous learning, innovation, and contributing to real-world technology solutions. Adaptable, collaborative, and eager to contribute to both personal and organizational growth in software development and IT services.",
+    "location": "Jamshedpur, India",
+    "email": "ishannamata65@gmail.com",
+    "phone": "8797849390",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/ishan-namata/a",
+      "github": "https://github.com/ishannamata"
+    }
+  },
+  "experience": [
+    {
+      "company": "IGNISVERBI",
+      "role": "Python Full Stack Intern",
+      "dates": "Apr 2025 – Jun 2025",
+      "location": "Remote",
+      "bullets": [
+        "Developed a Music Player System using Django, HTML and CSS.",
+        "Technologies Used: Django, HTML and CSS."
+      ]
+    }
+  ],
+  "achievements": [],
+  "projects": [
+    {
+      "title": "Query Grid AI Model",
+      "dates": "2025",
+      "stack": ["Next.js", "Tailwind CSS", "MongoDB"],
+      "bullets": [
+        "A web application replicating DeepSeek AI, built with Next.js, Tailwind CSS, and MongoDB.",
+        "Frontend: Responsive UI using Next.js and Tailwind CSS.",
+        "Backend: Authentication and API routes in Next.js.",
+        "Database: Scalable data storage with MongoDB.",
+        "Features: Search functionality, user authentication, optimized performance."
+      ],
+      "links": []
+    },
+    {
+      "title": "Handwritten Digit Recognition",
+      "dates": "2025",
+      "stack": ["HTML5", "CSS3", "Python", "TensorFlow"],
+      "bullets": [
+        "Web-based model to recognize handwritten digits.",
+        "Used TensorFlow and the MNIST dataset.",
+        "Technologies: HTML5, CSS3, Python."
+      ],
+      "links": []
+    },
+    {
+      "title": "Online Excel Application",
+      "dates": "2023",
+      "stack": ["HTML", "CSS", "JavaScript", "MongoDB", "PHP"],
+      "bullets": [
+        "A web app that mimics offline Excel functions .",
+        "User can perform all the operations which they perform in offline Microsoft Excel",
+        "Technologies: HTML, CSS, JavaScript, MongoDB, PHP"
+      ],
+      "links": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["JavaScript", "HTML5", "CSS3", "Java", "SQL", "Python"]
+    },
+    {
+      "category": "Frameworks",
+      "items": ["NextJS", "PostgreSQL", "Django", "Tailwind CSS"]
+    },
+    {
+      "category": "Tools",
+      "items": ["GitHub", "Git", "VS Code", "IntelliJ", "MySQL", "Vercel"]
+    },
+    {
+      "category": "Coursework",
+      "items": ["OOPs", "DSA", "OS", "DB", "SE", "SDLC"]
+    },
+    {
+      "category": "Professional Skills",
+      "items": ["Leadership", "Problem-Solving", "Communication"]
+    },
+    {
+      "category": "Other Skills",
+      "items": ["Time management", "Creativity", "Analysis", "Adaptability"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kalinga Institute of Industrial Technology",
+      "degree": "Masters in Computer Applications",
+      "dates": "2024 – 2026",
+      "details": "CGPA: 7.81"
+    },
+    {
+      "institution": "Birla Institute of Technology, Mesra",
+      "degree": "Bachelors in Computer Application",
+      "dates": "2020 – 2023",
+      "details": "CGPA: 7.76"
+    }
+  ],
+  "certifications": [
+    "Advancement of GenAI (2025) : Certificate for attending seminar.",
+    "Python Full Stack : Eduskill (2024)",
+    "Internship IGNISVERBI : Apr 2025 – Jun 2025"
+  ],
+  "awards": [],
+  "extra": []
+}
