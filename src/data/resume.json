@@ -27,21 +27,33 @@
   "projects": [
     {
       "title": "Mentora – AI-Powered Career Coaching Platform",
-      "dates": "2025",
-      "stack": ["Next.js", "Tailwind CSS", "MongoDB"],
+      "dates": "2026",
+      "stack": [
+        "Next.js",
+        "React.js",
+        "Postgresql",
+        "ML",
+        "LLM"
+      ],
       "bullets": [
         "Engineered a full-stack AI-driven platform using LLMs and Machine Learning for personalized career guidance.",
         "Developed a skill gap analysis system to evaluate user performance and deliver targeted recommendations using TF-IDF vectorization and logistic regression.",
         "Integrated LLM-based model in the features such as AI chatbot, resume builder, cover letter generation, mock interviews, dynamic quizzes, industry insights (weekly updates), and personalized recommendations into a unified career platform.",
         "Technologies: Next.js, React.js, Tailwind CSS, PostgreSQL(Prisma ORM), Machine Learning, LLM Integration, REST APIs, inngest."
       ],
-      "links": ["https://mentora-aicareercoach.vercel.app/"]
+      "links": {
+        "live": "https://mentora-aicareercoach.vercel.app/",
+        "github": "https://github.com/ishannamata/mentora"
+      }
     },
-
     {
       "title": "Query Grid AI Model",
       "dates": "2025",
-      "stack": ["Next.js", "Tailwind CSS", "MongoDB"],
+      "stack": [
+        "Next.js",
+        "Tailwind CSS",
+        "MongoDB"
+      ],
       "bullets": [
         "A web application replicating DeepSeek AI, built with Next.js, Tailwind CSS, and MongoDB.",
         "Frontend: Responsive UI using Next.js and Tailwind CSS.",
@@ -54,7 +66,12 @@
     {
       "title": "Handwritten Digit Recognition",
       "dates": "2025",
-      "stack": ["HTML5", "CSS3", "Python", "TensorFlow"],
+      "stack": [
+        "HTML5",
+        "CSS3",
+        "Python",
+        "TensorFlow"
+      ],
       "bullets": [
         "Web-based model to recognize handwritten digits.",
         "Used TensorFlow and the MNIST dataset.",
@@ -66,27 +83,62 @@
   "skills": [
     {
       "category": "Languages",
-      "items": ["JavaScript", "HTML5", "CSS3", "Java", "SQL", "Python"]
+      "items": [
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Java",
+        "SQL",
+        "Python"
+      ]
     },
     {
       "category": "Frameworks",
-      "items": ["NextJS", "PostgreSQL", "Django", "Tailwind CSS"]
+      "items": [
+        "NextJS",
+        "PostgreSQL",
+        "Django",
+        "Tailwind CSS"
+      ]
     },
     {
       "category": "Tools",
-      "items": ["GitHub", "Git", "VS Code", "IntelliJ", "MySQL", "Vercel"]
+      "items": [
+        "GitHub",
+        "Git",
+        "VS Code",
+        "IntelliJ",
+        "MySQL",
+        "Vercel"
+      ]
     },
     {
       "category": "Coursework",
-      "items": ["OOPs", "DSA", "OS", "DB", "SE", "SDLC"]
+      "items": [
+        "OOPs",
+        "DSA",
+        "OS",
+        "DB",
+        "SE",
+        "SDLC"
+      ]
     },
     {
       "category": "Professional Skills",
-      "items": ["Leadership", "Problem-Solving", "Communication"]
+      "items": [
+        "Leadership",
+        "Problem-Solving",
+        "Communication"
+      ]
     },
     {
       "category": "Other Skills",
-      "items": ["Time management", "Creativity", "Analysis", "Adaptability"]
+      "items": [
+        "Time management",
+        "Creativity",
+        "Analysis",
+        "Adaptability"
+      ]
     }
   ],
   "education": [
