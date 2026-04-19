@@ -26,6 +26,19 @@
   "achievements": [],
   "projects": [
     {
+      "title": "Mentora – AI-Powered Career Coaching Platform",
+      "dates": "2025",
+      "stack": ["Next.js", "Tailwind CSS", "MongoDB"],
+      "bullets": [
+        "Engineered a full-stack AI-driven platform using LLMs and Machine Learning for personalized career guidance.",
+        "Developed a skill gap analysis system to evaluate user performance and deliver targeted recommendations using TF-IDF vectorization and logistic regression.",
+        "Integrated LLM-based model in the features such as AI chatbot, resume builder, cover letter generation, mock interviews, dynamic quizzes, industry insights (weekly updates), and personalized recommendations into a unified career platform.",
+        "Technologies: Next.js, React.js, Tailwind CSS, PostgreSQL(Prisma ORM), Machine Learning, LLM Integration, REST APIs, inngest."
+      ],
+      "links": ["https://mentora-aicareercoach.vercel.app/"]
+    },
+
+    {
       "title": "Query Grid AI Model",
       "dates": "2025",
       "stack": ["Next.js", "Tailwind CSS", "MongoDB"],
@@ -46,17 +59,6 @@
         "Web-based model to recognize handwritten digits.",
         "Used TensorFlow and the MNIST dataset.",
         "Technologies: HTML5, CSS3, Python."
-      ],
-      "links": []
-    },
-    {
-      "title": "Online Excel Application",
-      "dates": "2023",
-      "stack": ["HTML", "CSS", "JavaScript", "MongoDB", "PHP"],
-      "bullets": [
-        "A web app that mimics offline Excel functions .",
-        "User can perform all the operations which they perform in offline Microsoft Excel",
-        "Technologies: HTML, CSS, JavaScript, MongoDB, PHP"
       ],
       "links": []
     }
