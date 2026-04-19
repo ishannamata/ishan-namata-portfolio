@@ -35,7 +35,7 @@
         "Integrated LLM-based model in the features such as AI chatbot, resume builder, cover letter generation, mock interviews, dynamic quizzes, industry insights (weekly updates), and personalized recommendations into a unified career platform.",
         "Technologies: Next.js, React.js, Tailwind CSS, PostgreSQL(Prisma ORM), Machine Learning, LLM Integration, REST APIs, inngest."
       ],
-      "links": ["https://mentora-aicareercoach.vercel.app/", "https://github.com/ishannamata/mentora"]
+      "links": "https://mentora-aicareercoach.vercel.app/"
     },
 
     {
