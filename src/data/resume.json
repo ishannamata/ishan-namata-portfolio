@@ -43,7 +43,7 @@
       "dates": "2025",
       "stack": ["Next.js", "Tailwind CSS", "MongoDB"],
       "bullets": [
-        "A web application replicating DeepSeek AI, built with Next.js, Tailwind CSS, and MongoDB.",
+        "A web application with chatbot AI, built with Next.js, Tailwind CSS, and MongoDB.",
         "Frontend: Responsive UI using Next.js and Tailwind CSS.",
         "Backend: Authentication and API routes in Next.js.",
         "Database: Scalable data storage with MongoDB.",
